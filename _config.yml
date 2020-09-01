@@ -28,7 +28,7 @@ twitter_username: IvanStamenic
 github_username:  ivanstamenic
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
